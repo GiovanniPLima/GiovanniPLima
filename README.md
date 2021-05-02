@@ -1,0 +1,2 @@
+- Developer Python, C and Shell Script 
+- Pentester and Bug Hunter 
