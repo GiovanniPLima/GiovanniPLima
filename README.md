@@ -1,2 +1,2 @@
-- Developer Python, C and Shell Script 
+- Full Stack JavaScript Developer 
 - Pentester and Bug Hunter 
