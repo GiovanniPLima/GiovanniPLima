@@ -1,2 +1,2 @@
-- Developer C# 
+- Developer C# - Mobile, Desktop and Web 
 - Pentester and Bug Hunter 
