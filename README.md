@@ -1,2 +1,2 @@
-- Full Stack JavaScript Developer 
+- Developer C# 
 - Pentester and Bug Hunter 
