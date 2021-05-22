@@ -1,2 +1,2 @@
-- Developer C# - Mobile, Desktop and Web 
+- Developer C# FullStack - Mobile, Desktop and Web 
 - Pentester and Bug Hunter 
